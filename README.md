@@ -1,5 +1,5 @@
 # `Lane-Detection-In-Image`
-## Detection of lanes by a self driving car according to driving state keep right rules in USA
+## Detection of lanes by a self driving car. 
 The input test image: 
 
 
